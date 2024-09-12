@@ -1,2 +1,4 @@
 -c requirements.txt
-
+pyspark==3.5.1 ;
+polars
+apache-airflow
