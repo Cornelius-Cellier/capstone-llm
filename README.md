@@ -76,6 +76,7 @@ The following commands are assumed to run in the `capstone_llm` subdirectory.
 
 ### Context
 Our team already ingested questions and answers from StackOverflow for you to use. 
+
 We used the [stackoverflow API](https://api.stackexchange.com/docs).
 We ingested different tags, pick one of them with your table (3-4 peopla) as a starting point for cleaning your data.
 This helps to distribute who is working on which data.
