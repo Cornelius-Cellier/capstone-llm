@@ -1,10 +1,140 @@
-    },
-            "is_accepted": false,
-            "score": 28,
-            "last_activity_date": 1721156507,
-            "last_edit_date": 1721156507,
-            "creation_date": 1657726145,
-            "answer_id": 72968861,
-            "question_id": 72956095,
-            "content_license": "CC BY-SA 4.0",
-            "body": "<
+    1  git status
+    2  git commit -am "initial commit, just a test"
+    3  git push
+    4  python3 -m venv venv
+    5  git push
+    6  python3 -m venv venv
+    7  source venv/bin/activate
+    8  ls
+    9  pip-compile requirements.in
+   10  pip compile requirements.in
+   11  pip install pip tools
+   12  pip-compile requirements.in
+   13  ls
+   14  pip compile requirements.in
+   15  pip-compile requirements.in
+   16  python -m pip install pip-tools
+   17  pip-compile requirements.in
+   18  pip-compile -h
+   19  ls
+   20  ls -ah
+   21  cd capstone_llm/
+   22  pip-compile requirements.in
+   23  ls
+   24  pip install -r requirements.txt
+   25  /src/tasks
+   26  ls
+   27  cd src
+   28  cd tasks
+   29  ls
+   30  cd capstonellm/
+   31  ls
+   32  cd tasks
+   33  /home/gitpod/.pyenv/shims/python /workspace/capstone-llm/capstone_llm/src/capstonellm/tasks/clean.py
+   34  ls
+   35  ls ../
+   36  ls ../../
+   37  ls ../../..
+   38  ls
+   39  ls ../
+   40  ls ..
+   41  ls ../..
+   42  ls ../../..
+   43  cd ..
+   44  ls
+   45  cd../..
+   46  cd ../..
+   47  ls
+   48  pip install -e .
+   49  pip-compile dev-requirements.in
+   50  pip install -r devrequirements.txt
+   51  pip install -r dev-requirements.txt
+   52  python3 -m capstonellm.tasks.clean
+   53  ls
+   54  aws s3 ls s3://dataminded-academy-capstone-llm-data-us/input/dbt/
+   55  ls
+   56  aws s3 cp s3://dataminded-academy-capstone-llm-data-us/input/dbt/questions.json ./ 
+   57  ls
+   58  ls *.json
+   59  aws s3 cp s3://dataminded-academy-capstone-llm-data-us/input/dbt/questions.json ./ 
+   60  ls
+   61  aws s3 ls s3://dataminded-academy-capstone-llm-data-us/input/dbt/
+   62  aws s3 cp s3://dataminded-academy-capstone-llm-data-us/input/dbt/answers.json ./ 
+   63  ls
+   64  cd src/capstonellm/
+   65  cd tasks
+   66  ls
+   67  touch exploration.ipynb
+   68  ls
+   69  cd ..
+   70  ls
+   71  cd ..
+   72  ls
+   73  cd ..
+   74  ls
+   75  ls ../../../
+   76  cd src/
+   77  cd capstonellm
+   78  ls
+   79  cd tasks
+   80  ls
+   81  ls ../../../
+   82  sprak
+   83  spark
+   84  python
+   85  git add * 
+   86  git status
+   87  git commit -am "started to explore data to create a cleaning task, currently on ipynb file"
+   88  git push
+   89  ls
+   90  touch notes.txt
+   91  ls
+   92  cd capstone_llm/
+   93  cd src
+   94  cd capstonellm
+   95  ls
+   96  cd ..
+   97  ls
+   98  cd ..
+   99  ls
+  100  pip-compile requirements-dev.in
+  101  cd ./../..
+  102  cd ..
+  103  pip-compile dev-requirements.in
+  104  pip install -r requirements.txt
+  105  eval $(aws configure export-credentials --format env)
+  106  /home/gitpod/.pyenv/shims/python /workspace/capstone-llm/capstone_llm/src/capstonellm/tasks/clean.py
+  107  python3 -m capstonellm.tasks.clean
+  108  ls
+  109  cd capstone_llm/src/tasks
+  110  cd capstone_llm/
+  111  ls
+  112  cd src/
+  113  ls
+  114  cd capstonellm
+  115  ls
+  116  cd tasks
+  117  python3 -m capstonellm.tasks.clean
+  118  cd ../../../..
+  119  ls
+  120  python3 -m capstonellm.tasks.clean
+  121  pip install .
+  122  cd capstone_llm/
+  123  ls
+  124  pip install .
+  125  python3 -m capstonellm.tasks.clean
+  126  python3 -m capstonellm.tasks.clean -e
+  127  python3 -m capstonellm.tasks.clean -e local
+  128  eval $(aws configure export-credentials --format env)
+  129  python3 -m capstonellm.tasks.clean -e local
+  130  git add *
+  131  git commit -am "advancing it the cleaning process, now i need to make all this work together to create the files and upload them"
+  132  ls
+  133  history
+  134  cd src/
+  135  ls
+  136  cd capstonellm
+  137  ls
+  138  cd tasks/
+  139  ls
+  140  history > notes.txt
