@@ -1,4 +1,4 @@
-# Dataminded Capstone LLM
+# Dataminded Capstone LLM // TEST AUTH
 
 Welcome to the Capstone project! Everything you've learned over the past days will now be integrated in a realistic data pipeline. 
 The training wheels are off, but we're still at the sideline, cheering you on and supporting you when needed.
